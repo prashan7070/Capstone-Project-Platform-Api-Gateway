@@ -8,7 +8,7 @@ A reactive API Gateway built with Spring Cloud Gateway (WebFlux). It serves as t
 |---|---|
 | **Student Name** | Prashan Anupama |
 | **Student Number** | 241711044 |
-| **Slack Handle** | Lahiru Sanjeewa |
+| **Slack Handle** | prashan anupama |
 | **GCP Project ID** | prashan-gcp-project |
 | **Submission Type** | Alternative Option (Capstone Project) |
 
